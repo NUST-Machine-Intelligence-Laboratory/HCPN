@@ -48,7 +48,7 @@ DAVIS
 Change your dataset paths, then run ```python train.py``` for training model.
 
 ### Note: 
-Please change the path in these two codes (```libs/utils/config_davis.py```and ```libs/utils/config_davis.py```) to your own dataset path.
+Please change the path in two codes (```libs/utils/config_davis.py```and ```libs/utils/config_davis.py```) to your own dataset path.
 ## Testing
 If you want to test the model results directly, you can follow the settings below.
 1. Download the pretrained model from [GoogleDrive](https://drive.google.com/drive/folders/1LYyAZtDHv8nTKVB6xY05TUSJ_7QnhnmJ?usp=sharing) and put it into the "model/HCPN" files. 
