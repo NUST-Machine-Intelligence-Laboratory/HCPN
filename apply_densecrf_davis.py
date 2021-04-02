@@ -19,7 +19,7 @@ def sigmoid(x):
 image_dir = 'Your_path/DAVIS/JPEGImages/480p'
 davis_result_dir = './outputs/mask'
 
-model_name = 'HCAP_final' 
+model_name = 'HCPN_final' 
 mask_dir = os.path.join(davis_result_dir, model_name)
 save_dir = join(davis_result_dir, model_name + '_crf')
 
