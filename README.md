@@ -71,7 +71,7 @@ HCPN
 4. Evaluation code from [DAVIS_Evaluation](https://github.com/davisvideochallenge/davis-matlab/tree/davis-2016)
 ## Results
 If you are not able to run our code but interested in our results, 
-the segmentation results can be downloaded from [GoogleDrive](https://drive.google.com/file/d/196mbD6dlq0CWNP8R2DenoIPQT3ZNx6wB/view?usp=sharing).
+the segmentation results can be downloaded from [GoogleDrive](https://drive.google.com/file/d/1EIzgDZaylhZ9rNkf4bShOY_slSqinD_W/view?usp=sharing).
 
 1. **DAVIS-16**:
 
