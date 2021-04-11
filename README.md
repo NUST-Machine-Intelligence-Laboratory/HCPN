@@ -46,7 +46,8 @@ DAVIS
 ```
 ### Run train.py
 Change your dataset paths, then run ```python train.py``` for training model.
-
+We also provide multi-GPU parallel code based on [apex](https://github.com/NVIDIA/apex).
+Run ```CUDA_VISIBLE_DEVICES="0,1,2,3" python -m torch.distributed.launch --nproc_per_node 4 train_apex.py``` for distributed training in Pytorch
 ### Note: 
 Please change the path in two codes (```libs/utils/config_davis.py```and ```libs/utils/config_davis.py```) to your own dataset path.
 ## Testing
