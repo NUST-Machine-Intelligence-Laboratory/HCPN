@@ -116,3 +116,9 @@ DAVIS-2017
 [Demo_FBMS](https://drive.google.com/file/d/1-pFVc1wrB41QnefzUGZdHFfRDm0e3svB/view?usp=sharing)
 
 [Demo_DAVIS17](https://drive.google.com/file/d/1qbrJtavp2xUI8fm53urL6KLWvzni17CK/view?usp=sharing)
+
+## Acknowledge
+
+1. Motion-Attentive Transition for Zero-Shot Video Object Segmentation, AAAI 2020 (https://github.com/tfzhou/MATNet)
+2. Video Object Segmentation Using Space-Time Memory Networks, ICCV 2019 (https://github.com/seoungwugoh/STM)
+3. See More, Know More: Unsupervised Video Object Segmentation With Co-Attention Siamese Networks, CVPR 2019 (https://github.com/carrierlxk/COSNet)
