@@ -103,10 +103,6 @@ In the inference stage, we ran using the 512x512 size of DAVIS (480p).
 ---------|  :---------: | :---------: 
  **70.7** | **68.7** | **72.7** |
 
-## Leaderboard
-![Screenshot](rank1.svg)
-DAVIS-2016
-![Screenshot](rank2.svg)
 DAVIS-2017
 ## Video for Demo
 [Demo_DAVIS2016](https://drive.google.com/file/d/1j5mpv8R5c1CUtqX5-DIi1tuLLpS6SD_A/view?usp=sharing)
